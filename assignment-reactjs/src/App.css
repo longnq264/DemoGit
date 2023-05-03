@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 950px;
+}
+.list-query {
+    width: 100%;
+}
+.list-query ul li {
+    list-style: none;
+}
+table.table-query {
+    width: 100%;
+    text-align: center;
+}
